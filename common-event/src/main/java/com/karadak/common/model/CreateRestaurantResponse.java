@@ -1,4 +1,4 @@
-package com.karadak.emitter.model;
+package com.karadak.common.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

@@ -1,6 +1,6 @@
-package com.karadak.emitter.event;
+package com.karadak.common.event;
 
-import com.karadak.emitter.model.CreateRestaurantRequest;
+import com.karadak.common.model.CreateRestaurantRequest;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
