@@ -1,0 +1,5 @@
+rootProject.name = 'eventuate-modules'
+
+include 'common-event'
+include 'emitter'
+include 'receiver'
